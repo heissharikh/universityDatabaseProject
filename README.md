@@ -2,7 +2,7 @@
 
 Softwares used
 =====================
-Eclipse IDE
-MySQL Workbench 8.0E
-J connector for java, ODBC
+Eclipse IDE<br/>
+MySQL Workbench 8.0E <br/>
+J connector for java, ODBC <br/>
 
